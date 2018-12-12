@@ -10,8 +10,8 @@
  - 大专/三门峡职业技术学院计算机系 
  - 工作年限：3年
  - [技术博客](https://www.jianshu.com/u/8ddc2787f454)(https://www.jianshu.com/u/8ddc2787f454)
- - [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
- - Github：https://github.com/wyx318
+ - [Github](https://github.com/wyx318)(https://github.com/wyx318)
+ 
 
  - 期望职位：web前端开发
  - 期望薪资：税前月薪8k~10k
